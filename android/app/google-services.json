@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259491008988",
+    "firebase_url": "https://classroyaleflutter.firebaseio.com",
+    "project_id": "classroyaleflutter",
+    "storage_bucket": "classroyaleflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259491008988:android:81886e0b39a37365",
+        "android_client_info": {
+          "package_name": "com.example.clashroyale_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259491008988-i4lnnea3u1te7itd7pm26olemb7khrbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXY8QrGNrmnKoj4DJ3k-oVInEFXQwH0UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259491008988-i4lnnea3u1te7itd7pm26olemb7khrbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
